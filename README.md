@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Village Trader Game
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+In this game you play as a trader who needs to earn 5000 diamonds in 100 days! You need to buy products and sell them at a premium. Can you complete the challenge?!
+Link to the game: https://warm-capybara-9591f8.netlify.app/
 
 ## Available Scripts
 
